@@ -20,5 +20,5 @@ cd pet_2006
 for f in *.tar.gz; do tar -xvf "$f"; done
 ```
 
-#Step 2: Extract PET data for your field
+# Step 2: Extract PET data for your field
 Run the `PET_extraction.R` code.
