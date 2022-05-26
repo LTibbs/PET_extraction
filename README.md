@@ -3,7 +3,7 @@ Extract daily local Potential Evapotranspiration (PET) data from USGS tar.gz fil
 
 # You will need:
 Environmental metadata file (see example: "Env_meta_table.txt") with five columns:
-- "env_code": field name
+- "env_code": name of environment or field
 - "lat": latitude
 - "lon": longitude
 - "PlantingDate": the planting date in that field
